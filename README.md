@@ -4,7 +4,7 @@
 - **Software developer**. Really into **GNU/Linux**.
 - Currently interested in peer-to-peer distributed systems and networking.
 - I love to read (specially gothy stuff.) I rarely do it, though 😂
-- I also like to [blog](https://bearblog.dev/) sporadically and look at pretty pictures.
+- I also like to blog sporadically and look at pretty pictures.
 
 </br>
 </br>
